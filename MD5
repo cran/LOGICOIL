@@ -1,0 +1,15 @@
+e98ed5eaa6481accb2b02e763c046501 *DESCRIPTION
+406c0879724e0bf6bd77b8fc01dae4df *NAMESPACE
+e90d506d3c119ceb580a2694f369ba9d *R/EstimateProbability.R
+ec782f0416e1436f8be3004bb67dcf8d *R/LOGICOIL.R
+366968cb26240ca4237739602ce693ec *R/plot_LOGICOIL.R
+f7438641d85d10b0072d8a0c2af62dda *data/LOGICOILfit.rda
+32e54ecbdfbb8dd159663e86c96679e3 *data/Model_Parameters.rda
+a0b9167d31abdf121a14d4688f295adf *data/pssm.rda
+59c5256a7eff13ecc2c7f504133250b1 *man/EstimateProbability.Rd
+5ded91a3f1a82b3786defc7c29bfb7db *man/LOGICOIL-package.Rd
+3aa0671b343c2ef78cd380165b02411f *man/LOGICOIL.Rd
+2caaa5af1d7470ef3b8f57a9779dc72d *man/LOGICOILfit.Rd
+a1babf6f89f8b45f73508b0bd5c2b31e *man/Model_Parameters.Rd
+35ef160d1af9ab80b436f8d3d1da7c8b *man/plot_LOGICOIL.Rd
+c9aa17d30ad7cbf7f76eeca00542fbcc *man/pssm.Rd
